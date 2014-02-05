@@ -1,0 +1,25 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("goallogic"
+ (filename . "/gsunil/ZeOmega/monte_build/src/jiva.poc/Products/ZePlanOfCare/ActionClasses.py")
+ (front-context-string . "    def add_goal")
+ (rear-context-string . "eturn response\n\n")
+ (position . 5313))
+("addgoal"
+ (filename . "/gsunil/ZeOmega/monte_build/src/jiva.poc/Products/ZePlanOfCare/poc_views/compact_add_goal.dtml")
+ (front-context-string . "<br/>\n<div class")
+ (rear-context-string)
+ (position . 1))
+("popgoal"
+ (filename . "/gsunil/ZeOmega/monte_build/src/jiva.poc/Products/ZePlanOfCare/poc_views/compact_goal_div.dtml")
+ (front-context-string . "class=\"add_compa")
+ (rear-context-string . "type=\"checkbox\" ")
+ (position . 685))
+("pocjs"
+ (filename . "/gsunil/ZeOmega/monte_build/src/jivacore.ui/Products/ZeUI/views/jscript/Ze_POC.js.dtml")
+ (front-context-string . "act_goal: functi")
+ (rear-context-string . "        add_comp")
+ (position . 127418))
+)
